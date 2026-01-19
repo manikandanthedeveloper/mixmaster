@@ -1,6 +1,6 @@
 const AboutPage = () => {
 	return (
-		<div className="max-w-3xl mx-auto p-4 bg-white shadow-md rounded-md mt-6">
+		<div className="p-4 bg-white shadow-md rounded-md mt-6">
 			<h2 className="text-2xl font-bold mb-4">About Us</h2>
 			<p className="text-[15px] mb-2">
 				Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi,
